@@ -1,0 +1,21 @@
+Start: Sat, 2 May 2015 14:51:17 -0800
+End: Sat, 2 May 2015 18:06:52 -0800
+Tasks: - Began assignment
+       - Set up local directory
+       - Set up Github repo
+       - Downloaded PhpStorm IDE
+       - Began working on multtable
+       - Completed multtable
+       - Began working on loopback
+
+Start: Sat, 2 May 2015 19:08:20 -0800
+End: Sat, 2 May 2015 22:17:17 -0800
+Tasks: - Continued working on loopback
+       - Completed loopback
+       - Began working on login/content1/content2
+
+Start: Sun, 3 May 2015 09:40:49 -0800
+End:
+Tasks: - Continued working on login/content1/content2
+       - Completed login/content1/content2
+       - Uploaded files to Github
