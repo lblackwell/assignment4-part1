@@ -15,7 +15,7 @@ Tasks: - Continued working on loopback
        - Began working on login/content1/content2
 
 Start: Sun, 3 May 2015 09:40:49 -0800
-End:
+End: Sun, 3 May 2015 10:12:40 -0800
 Tasks: - Continued working on login/content1/content2
        - Completed login/content1/content2
        - Uploaded files to Github
